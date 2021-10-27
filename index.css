@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+header {
+  height: 90px;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+main {
+  display: flex;
+}
+
+.your-name {
+  margin-left: 70px;
+}
+
+img,
+p,
+ul {
+  padding-right: 45px;
+  padding-top: 30px;
+}
+
+.contact-info {
+  margin-right: 70px;
+}
+
+p {
+  width: 773px;
+}
+
+.info {
+  display: flex;
+}
+
+.your-name,
+.contact-info {
+  margin-top: 30px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+ul {
+  margin-left: 20px;
+}
